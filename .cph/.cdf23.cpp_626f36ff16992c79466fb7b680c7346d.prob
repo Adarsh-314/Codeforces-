@@ -1,0 +1,1 @@
+{"name":"Local: cdf23","url":"c:\\Users\\adars\\codeforces\\cdf23.cpp","tests":[{"id":1775483880232,"input":"5\n3 2\n1 2 3\n3 1\n9 9 9\n4 4\n6 4 2 1\n4 3\n10 3 830 14\n2 1\n3 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\adars\\codeforces\\cdf23.cpp","group":"local","local":true}
