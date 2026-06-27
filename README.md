@@ -6,23 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 12 |
+| 57 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (8)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [brute force](#brute-force) (10)
+- [constructive algorithms](#constructive-algorithms) (9)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (23)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (12)
-- [math](#math) (26)
+- [implementation](#implementation) (16)
+- [math](#math) (32)
 - [number theory](#number-theory) (7)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (8)
 - [strings](#strings) (3)
 
 ---
@@ -35,10 +35,12 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2166/A%20-%20Same%20Difference/solution.cpp) |
 | 2182B | [New Year Cake](https://codeforces.com/contest/2182/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2182/B%20-%20New%20Year%20Cake/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 
 ### constructive algorithms
 
@@ -47,9 +49,12 @@
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2158A | [Suspension](https://codeforces.com/contest/2158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2158/A%20-%20Suspension/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.c) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
+| 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.cpp) |
 
 ### expression parsing
 
@@ -61,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 
 ### geometry
@@ -76,6 +82,12 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2153A | [Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2153/A%20-%20Circle%20of%20Apple%20Trees/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
+| 2158A | [Suspension](https://codeforces.com/contest/2158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2158/A%20-%20Suspension/solution.cpp) |
+| 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2166/A%20-%20Same%20Difference/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
@@ -85,6 +97,10 @@
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
+| 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+| 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 
 ### hashing
@@ -103,11 +119,15 @@
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.c) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
+| 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
+| 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2194/B%20-%20Offshores/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 
 ### math
@@ -116,6 +136,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
@@ -123,6 +144,8 @@
 | 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
+| 2158A | [Suspension](https://codeforces.com/contest/2158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2158/A%20-%20Suspension/solution.cpp) |
+| 2161A | [Round Trip](https://codeforces.com/contest/2161/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2161/A%20-%20Round%20Trip/solution.cpp) |
 | 2166B | [Tab Closing](https://codeforces.com/contest/2166/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2166/B%20-%20Tab%20Closing/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
@@ -133,11 +156,14 @@
 | 2194B | [Offshores](https://codeforces.com/contest/2194/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2194/B%20-%20Offshores/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2202A | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2202/A%20-%20Parkour%20Design/solution.cpp) |
+| 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+| 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 
@@ -158,9 +184,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2153A | [Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2153/A%20-%20Circle%20of%20Apple%20Trees/solution.cpp) |
+| 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 
 ### strings
 
