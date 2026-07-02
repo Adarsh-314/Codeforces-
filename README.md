@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 13 |
+| 65 | 14 |
 
 ---
 
@@ -17,11 +17,12 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (28)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (17)
-- [math](#math) (34)
-- [number theory](#number-theory) (8)
+- [math](#math) (35)
+- [number theory](#number-theory) (9)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (9)
 - [strings](#strings) (4)
@@ -81,6 +82,12 @@
 |---|---------|------------|----------|
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.c) |
 
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2069A | [Was there an Array?](https://codeforces.com/contest/2069/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2069/A%20-%20Was%20there%20an%20Array%3F/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -90,6 +97,7 @@
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2059A | [Milya and Two Arrays](https://codeforces.com/contest/2059/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2059/A%20-%20Milya%20and%20Two%20Arrays/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2069A | [Was there an Array?](https://codeforces.com/contest/2069/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2069/A%20-%20Was%20there%20an%20Array%3F/solution.cpp) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2153A | [Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2153/A%20-%20Circle%20of%20Apple%20Trees/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
@@ -154,6 +162,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
+| 2063A | [Minimal Coprime](https://codeforces.com/contest/2063/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2063/A%20-%20Minimal%20Coprime/solution.cpp) |
 | 2070A | [FizzBuzz Remixed](https://codeforces.com/contest/2070/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2070/A%20-%20FizzBuzz%20Remixed/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
@@ -190,6 +199,7 @@
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 2063A | [Minimal Coprime](https://codeforces.com/contest/2063/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2063/A%20-%20Minimal%20Coprime/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
