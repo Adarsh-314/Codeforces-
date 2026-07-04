@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 14 |
+| 71 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (3)
@@ -21,8 +21,8 @@
 - [greedy](#greedy) (32)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (18)
-- [math](#math) (38)
-- [number theory](#number-theory) (13)
+- [math](#math) (39)
+- [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (10)
 - [strings](#strings) (4)
@@ -34,6 +34,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
@@ -162,6 +163,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
@@ -203,6 +205,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
