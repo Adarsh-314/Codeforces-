@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 14 |
+| 72 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (32)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (39)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
@@ -144,6 +144,7 @@
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1141B | [Maximal Continuous Rest](https://codeforces.com/contest/1141/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1141/B%20-%20Maximal%20Continuous%20Rest/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
