@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 14 |
+| 74 | 14 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (33)
+- [greedy](#greedy) (34)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (19)
-- [math](#math) (40)
+- [math](#math) (41)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (10)
@@ -100,6 +100,7 @@
 | 1629B | [GCD Arrays](https://codeforces.com/contest/1629/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1629/B%20-%20GCD%20Arrays/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1762A | [Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1762/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2059A | [Milya and Two Arrays](https://codeforces.com/contest/2059/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2059/A%20-%20Milya%20and%20Two%20Arrays/solution.cpp) |
@@ -174,6 +175,7 @@
 | 1629B | [GCD Arrays](https://codeforces.com/contest/1629/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1629/B%20-%20GCD%20Arrays/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1762A | [Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1762/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
 | 2063A | [Minimal Coprime](https://codeforces.com/contest/2063/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2063/A%20-%20Minimal%20Coprime/solution.cpp) |
