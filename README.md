@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 14 |
+| 78 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [expression parsing](#expression-parsing) (1)
@@ -21,13 +22,19 @@
 - [greedy](#greedy) (35)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (20)
-- [math](#math) (42)
+- [math](#math) (43)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (11)
 - [strings](#strings) (5)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 
 ### brute force
 
@@ -174,6 +181,7 @@
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1629B | [GCD Arrays](https://codeforces.com/contest/1629/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1629/B%20-%20GCD%20Arrays/solution.cpp) |
