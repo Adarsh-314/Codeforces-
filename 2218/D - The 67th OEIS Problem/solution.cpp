@@ -1,7 +1,7 @@
 #include <iostream>
- 
+ 
 using namespace std;
- 
+ 
 void distinct(int n) {
     int a= 1;
     int b= 3;
@@ -16,11 +16,11 @@ void distinct(int n) {
     
   
 }
- 
+ 
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
- 
+ 
     long long t;
     cin >> t;
     while (t--) {
