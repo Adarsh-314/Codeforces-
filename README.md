@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 16 |
+| 89 | 16 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
-- [brute force](#brute-force) (15)
+- [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (16)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
@@ -52,6 +52,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
+| 29A | [Spit Problem](https://codeforces.com/contest/29/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/29/A%20-%20Spit%20Problem/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 898B | [Proper Nutrition](https://codeforces.com/contest/898/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/898/B%20-%20Proper%20Nutrition/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
