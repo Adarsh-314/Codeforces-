@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 15 |
+| 86 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (15)
@@ -29,6 +30,12 @@
 - [strings](#strings) (5)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 
 ### binary search
 
