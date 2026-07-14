@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 16 |
+| 91 | 16 |
 
 ---
 
@@ -15,15 +15,15 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (16)
-- [constructive algorithms](#constructive-algorithms) (16)
+- [constructive algorithms](#constructive-algorithms) (17)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
-- [geometry](#geometry) (1)
+- [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (37)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (23)
-- [math](#math) (46)
+- [implementation](#implementation) (24)
+- [math](#math) (47)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (14)
@@ -71,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
@@ -107,6 +108,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.c) |
 
 ### graph matchings
@@ -170,6 +172,7 @@
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 38A | [Army](https://codeforces.com/contest/38/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/38/A%20-%20Army/solution.cpp) |
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
@@ -198,6 +201,7 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
+| 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Adarsh-314/Codeforces-/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
